@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mingxli.
+- 👋 Hi, I’m Ming Li.
 - 👀 I’m interested in mobile and web developments.
 - 🌱 I’m currently learning System Architecture and Design on Udacity by Dr.Spencer Rugaber.
 - 💞️ I’m open to collaborate various projects in the community.
